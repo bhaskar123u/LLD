@@ -1,0 +1,28 @@
+1. Pilots can ask for permission to land and take-off from ATC control room.
+2. Runway staffs can ping ATC control room for any incident/query.
+3. ATC can have multiple protocols/configuration depending on situations -> Design Pattern
+4. ATC will have it's own emergency/suspicious management protocol.
+
+Class Design :
+ATC()
+User(Pilot, ATC staff)
+Plane()
+Runway Class()
+Schedule Class()
+
+IS A / HAS A :
+
+class Main{
+
+}
+class ATC{
+
+    boolean isAllowedToLand(){
+
+    } -> which runway?
+    
+
+}
+class Schedule{
+    Map<>
+}
