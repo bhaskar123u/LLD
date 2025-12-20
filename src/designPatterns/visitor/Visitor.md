@@ -1,4 +1,3 @@
-````md
 # Visitor Design Pattern
 
 ---
@@ -278,6 +277,3 @@ This is a **classic Visitor use case**.
 
 **Note:**
 If you find yourself frequently adding new object types, Visitor may not be the right pattern. It is intentionally rigid on the object side to enable extensibility on the operation side.
-
-```
-```
