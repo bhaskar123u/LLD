@@ -1,6 +1,6 @@
 package designPatterns.template.src;
 
-public class PaymentFlowImpl1 extends PaymentFlow{
+public class PaymentFlowImpl1 extends PaymentFlow {
 
   @Override
   public void method1() {
